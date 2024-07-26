@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Memoria Team DDR4 16GB (2x8GB) 3200MHz Night Hawk RGB Black CL16 RGB Black",
+      "price": 62300,
+      "image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_24800_Memoria_Team_DDR4_16GB__2x8GB__3200MHz_T-Force_Delta_TUF_Alliance_RGB_CL16_bb467278-grn.jpg",
+      "category": "Memorias"
+    },
+    {
+      "name": "Cooler Fan Cooler Master MF120 S3",
+      "price": 15100,
+      "image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_33198_Cooler_Fan_Cooler_Master_MF120_S3_698c2e2f-grn.jpg",
+      "category": "Coolers"
+    },
+    {
+      "name": "Gabinete Aerocool PRIME TG 1 Fan ARGB",
+      "price": 61100,
+      "image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_22011_Gabinete_Aerocool_PRIME_TG_1_Fan_ARGB_d605763c-grn.jpg",
+      "category": "Gabinetes"
+    },
+    {
+      "name": "Impresora Láser Brother HL1200 Mono B/N",
+      "price": 22400,
+      "image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_36698_Impresora_Laser_Brother_HL1200_Mono_B_N_16813f78-grn.jpg",
+      "category": "Impresoras"
+    },
+    {
+      "name": "Notebook Acer Aspire 5 A515-54-55F6 Intel i5 8GB 512GB SSD",
+      "price": 105000,
+      "image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_40244_Notebook_Acer_Aspire_5_15.6__FHD_Touchscreen_Core_i5-13420H_8GB_512GB_SSD_Win11_53e1b500-grn.jpg",
+      "category": "Notebooks"
+    },
+    {
+      "name": "Mouse Logitech G203 LightSync RGB",
+      "price": 3200,
+      "image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_36948_Mouse_Logitech_Aurora_G705_Wireless_White_RGB_8593e28f-grn.jpg",
+      "category": "Mouses"
+    },
+    {
+      "name": "Teclado Mecánico Redragon Kumara K552 RGB",
+      "price": 5400,
+      "image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_21314_Teclado_Mecanico_Redragon_Kumara_K552_RGB_Outemu_Blue_ESP_ad353174-grn.jpg",
+      "category": "Teclados"
+    },
+    {
+      "name": "Monitor LG 24MK430H-B 23.8\" Full HD IPS",
+      "price": 23000,
+      "image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_19489_Monitor_LG_32__32MN500M-B_Full_HD_IPS_75Hz_FreeSync_b9da8229-grn.jpg",
+      "category": "Monitores"
+    },
+    {
+      "name": "Auriculares HyperX Cloud Stinger",
+      "price": 8600,
+      "image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_39199_Auriculares_HyperX_Cloud_Stinger_2_097591c4-grn.jpg",
+      "category": "Auriculares"
+    },
+    {
+      "name": "Disco Duro Externo Seagate 2TB Expansion Portable",
+      "price": 7800,
+      "image": "https://imagenes.compragamer.com/productos/compragamer_Imganen_general_40374_Disco_Rigido_Seagate_2TB_SkyHawk_256MB_5.4K_RPM_8aede975-grn.jpg",
+      "category": "Discos Duros"
+    }
+]
