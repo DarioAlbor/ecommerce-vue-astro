@@ -1,54 +1,52 @@
-# Astro Starter Kit: Basics
 
-```sh
-npm create astro@latest -- --template basics
-```
+# 🛒 E-commerce Vue.js & Astro 🚀
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+[Español](README.md) <img src="https://flagicons.lipis.dev/flags/4x3/ar.svg" width="20"/> / [Inglés](README_EN.md) <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width="20"/>
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 📖 Sobre el proyecto
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+Este proyecto es una **Tienda Online** donde puedes buscar productos, filtrarlos por categorías, agregar productos al carrito y proceder con la compra. La aplicación proporciona una experiencia de usuario fluida y eficiente, utilizando tecnologías modernas en el frontend. ¡Espero que disfrutes usando esta tienda tanto como yo disfruté creándola!
 
-## 🚀 Project Structure
+## 📋 Funcionalidades
 
-Inside of your Astro project, you'll see the following folders and files:
+- **Buscar Productos:** Los usuarios pueden buscar productos por nombre o categoría.
+- **Filtrar Productos:** Los productos se pueden filtrar por categorías.
+- **Agregar al Carrito:** Los usuarios pueden agregar productos al carrito de compras.
+- **Visualización del Carrito:** Visualiza el contenido del carrito y la cantidad de productos.
+- **Compra:** Procede con la compra de los productos seleccionados.
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## 💻 Tecnologías usadas
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+- **Frontend:** Vue.js & Astro
+- **Gestor de paquetes:** Yarn
+- **Estilos:** Tailwind CSS
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## 🚀 ¿Cómo deployarlo?
 
-Any static assets, like images, can be placed in the `public/` directory.
+### Clonar el repositorio
 
-## 🧞 Commands
+1. Clona el repositorio desde GitHub: `git clone https://github.com/DarioAlbor/ecommerce-vue-astro.git`
+2. Navega al directorio del proyecto: `cd ecommerce-vue-astro`
 
-All commands are run from the root of the project, from a terminal:
+### Configurar y arrancar el cliente
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+3. Instala las dependencias: `yarn`
+4. Inicia el cliente: `yarn serve`
 
-## 👀 Want to learn more?
+¡Disfruta!
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## 📬 Contacto
+
+Puedes contactarme mediante mi [portafolio](https://darioalbor.dev.ar).
+
+También puedes contribuir al proyecto sumando nuevas ideas o líneas de código. ¡Toda ayuda es bienvenida!
+
+## 📸 Imágenes
+
+| ![Inicio](./imagesgit/home.png) | ![Filtrado](./imagesgit/filter.png) |
+|:---------------------------------:|:----------------------------------------:|
+| Inicio                            | Filtrado                                |
+
+| ![Busqueda del producto](./imagesgit/search.png) | ![Carrito](./imagesgit/cart.png) |
+|:---------------------------------------------------------:|:---------------------------------:|
+| Busqueda del producto                                     | Carrito                           |
